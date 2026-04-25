@@ -1,0 +1,188 @@
+[
+  {
+    "update": 0,
+    "total_steps": 32768,
+    "mean_reward": 0.2941901981830597,
+    "elapsed": 5.168344259262085
+  },
+  {
+    "update": 50,
+    "total_steps": 1671168,
+    "mean_reward": 0.33255553245544434,
+    "elapsed": 11.439321994781494
+  },
+  {
+    "update": 100,
+    "total_steps": 3309568,
+    "mean_reward": 0.38456177711486816,
+    "elapsed": 13.334927797317505
+  },
+  {
+    "update": 150,
+    "total_steps": 4947968,
+    "mean_reward": 0.4233896732330322,
+    "elapsed": 15.212628602981567
+  },
+  {
+    "update": 200,
+    "total_steps": 6586368,
+    "mean_reward": 0.43831586837768555,
+    "elapsed": 17.090077877044678
+  },
+  {
+    "update": 250,
+    "total_steps": 8224768,
+    "mean_reward": 0.4583014249801636,
+    "elapsed": 18.970183849334717
+  },
+  {
+    "update": 300,
+    "total_steps": 9863168,
+    "mean_reward": 0.4662018120288849,
+    "elapsed": 20.84952473640442
+  },
+  {
+    "update": 350,
+    "total_steps": 11501568,
+    "mean_reward": 0.46510961651802063,
+    "elapsed": 22.843706369400024
+  },
+  {
+    "update": 400,
+    "total_steps": 13139968,
+    "mean_reward": 0.48222190141677856,
+    "elapsed": 24.82421875
+  },
+  {
+    "update": 450,
+    "total_steps": 14778368,
+    "mean_reward": 0.48413726687431335,
+    "elapsed": 26.79351043701172
+  },
+  {
+    "update": 500,
+    "total_steps": 16416768,
+    "mean_reward": 0.498155802488327,
+    "elapsed": 28.808775663375854
+  },
+  {
+    "update": 550,
+    "total_steps": 18055168,
+    "mean_reward": 0.4891340732574463,
+    "elapsed": 30.795793056488037
+  },
+  {
+    "update": 600,
+    "total_steps": 19693568,
+    "mean_reward": 0.5067726969718933,
+    "elapsed": 32.80123782157898
+  },
+  {
+    "update": 650,
+    "total_steps": 21331968,
+    "mean_reward": 0.5102445483207703,
+    "elapsed": 34.80643630027771
+  },
+  {
+    "update": 700,
+    "total_steps": 22970368,
+    "mean_reward": 0.518328070640564,
+    "elapsed": 36.80938744544983
+  },
+  {
+    "update": 750,
+    "total_steps": 24608768,
+    "mean_reward": 0.520163893699646,
+    "elapsed": 38.783403635025024
+  },
+  {
+    "update": 800,
+    "total_steps": 26247168,
+    "mean_reward": 0.5225202441215515,
+    "elapsed": 40.781031370162964
+  },
+  {
+    "update": 850,
+    "total_steps": 27885568,
+    "mean_reward": 0.5255082845687866,
+    "elapsed": 42.76247692108154
+  },
+  {
+    "update": 900,
+    "total_steps": 29523968,
+    "mean_reward": 0.5168983340263367,
+    "elapsed": 44.73752403259277
+  },
+  {
+    "update": 950,
+    "total_steps": 31162368,
+    "mean_reward": 0.5343515276908875,
+    "elapsed": 46.71486139297485
+  },
+  {
+    "update": 1000,
+    "total_steps": 32800768,
+    "mean_reward": 0.5300368666648865,
+    "elapsed": 48.71419167518616
+  },
+  {
+    "update": 1050,
+    "total_steps": 34439168,
+    "mean_reward": 0.533944308757782,
+    "elapsed": 50.69168949127197
+  },
+  {
+    "update": 1100,
+    "total_steps": 36077568,
+    "mean_reward": 0.538227379322052,
+    "elapsed": 52.654908180236816
+  },
+  {
+    "update": 1150,
+    "total_steps": 37715968,
+    "mean_reward": 0.5281320214271545,
+    "elapsed": 54.62742042541504
+  },
+  {
+    "update": 1200,
+    "total_steps": 39354368,
+    "mean_reward": 0.5364822149276733,
+    "elapsed": 56.62581157684326
+  },
+  {
+    "update": 1250,
+    "total_steps": 40992768,
+    "mean_reward": 0.5324487686157227,
+    "elapsed": 58.617223262786865
+  },
+  {
+    "update": 1300,
+    "total_steps": 42631168,
+    "mean_reward": 0.5327359437942505,
+    "elapsed": 60.5811984539032
+  },
+  {
+    "update": 1350,
+    "total_steps": 44269568,
+    "mean_reward": 0.5275439023971558,
+    "elapsed": 62.52903199195862
+  },
+  {
+    "update": 1400,
+    "total_steps": 45907968,
+    "mean_reward": 0.5315020680427551,
+    "elapsed": 64.48915076255798
+  },
+  {
+    "update": 1450,
+    "total_steps": 47546368,
+    "mean_reward": 0.5432136058807373,
+    "elapsed": 66.394859790802
+  },
+  {
+    "update": 1500,
+    "total_steps": 49184768,
+    "mean_reward": 0.538510262966156,
+    "elapsed": 68.40821433067322
+  }
+]
